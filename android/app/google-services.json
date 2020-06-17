@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "725003533598",
+    "firebase_url": "https://articulate-rain-279010.firebaseio.com",
+    "project_id": "articulate-rain-279010",
+    "storage_bucket": "articulate-rain-279010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725003533598:android:b63900d54f2134c7a59d0f",
+        "android_client_info": {
+          "package_name": "com.example.hanitesting4_alarm_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725003533598-scaq1787emkdita8vegkbb4f3cr3a7ht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanitesting4_alarm_manager",
+            "certificate_hash": "71aaac2a6f3a35de57cbeb3bde547da52be17b27"
+          }
+        },
+        {
+          "client_id": "725003533598-556830ft3jo9o05h32e0c0gjstc2lag0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjnO_6eimdNEbuwwVnWE_QTYfdkTY6wYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725003533598-556830ft3jo9o05h32e0c0gjstc2lag0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
